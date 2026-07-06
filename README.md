@@ -1,2 +1,2 @@
 # Crumb
-Privacy Policy and app-ads for PreciseSize
+Privacy Policy and app-ads for Crumb
